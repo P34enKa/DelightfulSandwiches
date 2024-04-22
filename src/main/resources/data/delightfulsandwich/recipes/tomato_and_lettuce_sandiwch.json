@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Foods",
+  "pattern": [
+    "BT ",
+    "L  ",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "farmersdelight:cabbage_leaf"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "T": {
+      "item": "farmersdelight:tomato"
+    }
+  },
+  "result": {
+    "item": "delightfulsandwich:tomato_and_lettuce_sandwich"
+  }
+}

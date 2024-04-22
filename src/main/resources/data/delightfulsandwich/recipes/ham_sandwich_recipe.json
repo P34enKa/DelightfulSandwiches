@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Foods",
+  "pattern": [
+    "BH ",
+    "H  ",
+    "   "
+  ],
+  "key": {
+    "H": {
+      "item": "farmersdelight:ham"
+    },
+    "B": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "delightfulsandwich:ham_sandwich"
+  }
+}

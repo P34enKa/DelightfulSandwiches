@@ -1,6 +1,7 @@
 package net.luhcarti.delightfulsandwich.item;
 
 import net.luhcarti.delightfulsandwich.DelightfulSandwich;
+import net.minecraft.client.particle.HugeExplosionParticle;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;

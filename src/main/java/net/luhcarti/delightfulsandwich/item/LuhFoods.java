@@ -3,7 +3,6 @@ package net.luhcarti.delightfulsandwich.item;
 import net.minecraft.world.food.FoodProperties;
 
 public class LuhFoods {
-
     private static FoodProperties.Builder stew(int pNutrition) {
         return (new FoodProperties.Builder()).nutrition(pNutrition).saturationMod(0.6F);
     }

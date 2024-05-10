@@ -1,5 +1,5 @@
 # Download:
-You can download on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/delightful-sandwiches) and on [Modrinth](https://modrinth.com/mod/delightful-sandwiches)!
+You can download on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/delightful-sandwiches) and on [Modrinth](https://modrinth.com/mod/delightful-sandwiches), Or Straight From This Page In [Releases](https://github.com/luhcartimods/DelightfulSandwiches/releases)!
 
 # NEW:
 

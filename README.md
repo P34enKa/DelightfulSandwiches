@@ -1,20 +1,20 @@
-**NEW:**
+# NEW:
 
 A new update has come with a lot to bring. Firstly we have some new Textures!! (see in spoilers) made by never/[goofy_swartz5636773](https://www.curseforge.com/members/goofy_swartz5636773/projects). And I changed the recipe to include the vanilla versions of some cooked meats/fishes. Thats all! Enjoy!
 
-**Versions:**
+# Versions:
 
 I am planning to backport to other versions, if you want a specific version please comment it!
 
-**About:**
+# About:
 
 Adds New Sandwiches to the farmers delight mod!
 
-**Dependencies:**
+# Dependencies:
 
 You will need [Farmers Delight](https://modrinth.com/mod/farmers-delight) and Forge 1.20 to run this mod, and optionally [JEI](https://modrinth.com/mod/jei) !
 
-**Other:**
+# Other:
 
 Some textures by me, if you would like to make your own for the mod feel free and send them to my Discord (babyboiguapo) 
 
@@ -24,7 +24,7 @@ Original Farmers Delight made by Vectorwing
 <details>
 <summary>Spoiler</summary>
 
-**Content:**
+# Content:
 
 ![New Sandwiches](https://cdn.modrinth.com/data/cached_images/86fa484ee60347e81b632fad75788e839f4e66e6.png)
 

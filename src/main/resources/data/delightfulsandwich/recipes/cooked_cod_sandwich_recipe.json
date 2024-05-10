@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BC ",
-    "C  ",
-    "   "
-  ],
-  "key": {
-    "C": {
-      "item": "farmersdelight:cooked_cod_slice"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
     },
-    "B": {
-      "item": "minecraft:bread"
+    {
+      "tag": "forge:cooked_fishes/cod"
+    },
+    {
+      "tag": "forge:cooked_fishes/cod"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:cooked_cod_sandwich"
   }

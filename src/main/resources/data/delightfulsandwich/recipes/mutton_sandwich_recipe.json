@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BM ",
-    "M  ",
-    "   "
-  ],
-  "key": {
-    "M": {
-      "item": "farmersdelight:cooked_mutton_chops"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cooked_mutton"
     },
-    "B": {
-      "item": "minecraft:bread"
+    {
+      "tag": "forge:cooked_mutton"
+    },
+    {
+      "tag": "forge:bread"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:mutton_sandwich"
   }

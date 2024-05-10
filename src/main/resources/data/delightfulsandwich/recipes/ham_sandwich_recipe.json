@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BH ",
-    "H  ",
-    "   "
-  ],
-  "key": {
-    "H": {
-      "item": "farmersdelight:ham"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:smoked_ham"
     },
-    "B": {
-      "item": "minecraft:bread"
+    {
+      "item": "farmersdelight:smoked_ham"
+    },
+    {
+      "tag": "forge:bread"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:ham_sandwich"
   }

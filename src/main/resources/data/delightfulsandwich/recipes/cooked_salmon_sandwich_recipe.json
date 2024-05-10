@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BS ",
-    "S  ",
-    "   "
-  ],
-  "key": {
-    "S": {
-      "item": "farmersdelight:cooked_salmon_slice"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
     },
-    "B": {
-      "item": "minecraft:bread"
+    {
+      "tag": "forge:cooked_fishes/salmon"
+    },
+    {
+      "tag": "forge:cooked_fishes/salmon"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:cooked_salmon_sandwich"
   }

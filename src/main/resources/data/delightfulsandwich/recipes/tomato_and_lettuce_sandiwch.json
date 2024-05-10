@@ -1,22 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BT ",
-    "L  ",
-    "   "
-  ],
-  "key": {
-    "L": {
-      "item": "farmersdelight:cabbage_leaf"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
     },
-    "B": {
-      "item": "minecraft:bread"
+    {
+      "tag": "forge:salad_ingredients"
     },
-    "T": {
-      "item": "farmersdelight:tomato"
+    {
+      "tag": "forge:crops/tomato"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:tomato_and_lettuce_sandwich"
   }

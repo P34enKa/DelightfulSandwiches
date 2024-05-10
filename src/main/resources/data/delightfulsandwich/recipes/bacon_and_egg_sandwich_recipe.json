@@ -1,22 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "Foods",
-  "pattern": [
-    "BS ",
-    "F  ",
-    "   "
-  ],
-  "key": {
-    "F": {
-      "item": "farmersdelight:fried_egg"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
     },
-    "B": {
-      "item": "minecraft:bread"
-    },
-    "S": {
+    {
       "item": "farmersdelight:cooked_bacon"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
     }
-  },
+  ],
   "result": {
     "item": "delightfulsandwich:bacon_and_egg_sandwich"
   }

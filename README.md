@@ -1,3 +1,6 @@
+# Download:
+You can download on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/delightful-sandwiches) and on [Modrinth](https://modrinth.com/mod/delightful-sandwiches)!
+
 # NEW:
 
 A new update has come with a lot to bring. Firstly we have some new Textures!! (see in spoilers) made by never/[goofy_swartz5636773](https://www.curseforge.com/members/goofy_swartz5636773/projects). And I changed the recipe to include the vanilla versions of some cooked meats/fishes. Thats all! Enjoy!

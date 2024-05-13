@@ -33,16 +33,16 @@ Original Farmers Delight made by Vectorwing
 
 (As you can see you can now use the vanilla versions!)
 
-Ham Sandwich: The easiest sandwich to make, good for food in a hurry! Made using 2 pieces of ham!
+**Ham Sandwich:** The easiest sandwich to make, good for food in a hurry! Made using 2 pieces of ham!
 
-Bacon And Egg Sandwich: The typical breakfest, Made using Cooked Bacon and Fried Egg the most brilliant breakfest you can have!
+**Bacon And Egg Sandwich:** The typical breakfest, Made using Cooked Bacon and Fried Egg the most brilliant breakfest you can have!
 
-Cooked Salmon Sandwich: From the olden Scandinavian times, the salmon sandwich is the best way to start the day, rich with flavor and nutrients made with 2 Cooked Salmon Slices!
+**Cooked Salmon Sandwich:** From the olden Scandinavian times, the salmon sandwich is the best way to start the day, rich with flavor and nutrients made with 2 Cooked Salmon Slices!
 
-Tomato And Lettuce Sandwich: Feeling Healthy? The Tomato And Lettuce Sandwich is great to get your healthy supplements while having great taste! Made using a Tomato an Cabbage
+**Tomato And Lettuce Sandwich:** Feeling Healthy? The Tomato And Lettuce Sandwich is great to get your healthy supplements while having great taste! Made using a Tomato an Cabbage
 
-Cooked Cod Sandwich: From the North of Germany the Cod Sandwich can be made using 2 Cooked Cod Slices and is great for a lunch! 
+**Cooked Cod Sandwich:** From the North of Germany the Cod Sandwich can be made using 2 Cooked Cod Slices and is great for a lunch! 
 
-Mutton Sandwich: Filled with taste the mutton sandwich will be a great sandwich for the day, made using Cooked Mutton Chops!
+**Mutton Sandwich:** Filled with taste the mutton sandwich will be a great sandwich for the day, made using Cooked Mutton Chops!
 
 </details>
